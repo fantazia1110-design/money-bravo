@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "133318421935",
+    "firebase_url": "https://money-fllllos-default-rtdb.firebaseio.com",
+    "project_id": "money-fllllos",
+    "storage_bucket": "money-fllllos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133318421935:android:a77ac64e283a6e488dd35a",
+        "android_client_info": {
+          "package_name": "com.example.money"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB50bJt0efVZoyxFyj5ddfjspqmGcvQ5fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133318421935:android:c006ba485d216ce28dd35a",
+        "android_client_info": {
+          "package_name": "com.example.money_bravo_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB50bJt0efVZoyxFyj5ddfjspqmGcvQ5fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
