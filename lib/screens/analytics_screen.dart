@@ -1574,7 +1574,7 @@ class _AnalyticsScreenState extends State<AnalyticsScreen> {
           final isMe = by == app.displayName;
           final action = log['action'] ?? '';
 
-          final txAmount = log['tx_amount'] as double?;
+          final txAmount = (log['tx_amount'] as num?)?.toDouble();
           final txType = log['tx_type'] as String?;
           final txCategory = log['tx_category'] as String?;
           final accountName = log['account_name'] as String?;
